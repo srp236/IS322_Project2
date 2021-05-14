@@ -1,0 +1,6 @@
+.card-container{
+    width: 300px;
+    overflow: hidden;
+    display: inline-block;
+    background-color: grey;
+}
